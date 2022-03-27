@@ -1,1 +1,1 @@
-Farm
+Why Do I code? After almost decade working in logistic industry I realized it's quite boring. Even when I changed company or role after just a few months I felt like I've been working there for years. There was no self development at all, and it really bothered me. So I decided to continue what I started long time ago when I was selecting high school profile. Programming with C and C++. This is something really challanging, where time flies by in the blink of an eye. I finished XVI edition of Nokia Academy last year and still willing to learn and exercise with coding.  
